@@ -1,0 +1,5 @@
+name: novaloracle
+channels:
+  - defaults
+dependencies: []
+prefix: D:\miniconda3\envs\novaloracle

@@ -1,0 +1,7 @@
+Appium_Python_Client==5.2.4
+opencv_python==4.11.0.86
+pandas==2.3.1
+Pillow==11.3.0
+Requests==2.32.4
+uiautomator2==3.3.3
+selenium==4.41.0
